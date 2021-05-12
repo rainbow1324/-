@@ -15,19 +15,19 @@
 
  
  
- - **쿠팡**
+  - **쿠팡**
   
-  <https://www.coupang.com/>
+   <https://www.coupang.com/>
   
 
   
   
-  - **NAVER**
+   - **NAVER**
 
-  <https://www.naver.com/>
+    <https://www.naver.com/>
 
   
   
-  - **카카오**
+   - **카카오**
 
-  <https://www.kakaocorp.com/>
+    <https://www.kakaocorp.com/>
